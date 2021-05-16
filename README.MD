@@ -1,6 +1,6 @@
 ### Commands & Their Usages
 
-* **Default Prefix: `x!`
+* Default Prefix: `x!`
 
 |  Cmd   | Usage    | Description                                                    | Catagory    |
 | ------ | -------- | -------------------------------------------------------------- | ----------- |
