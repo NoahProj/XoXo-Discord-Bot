@@ -1,5 +1,7 @@
 ### Commands & Their Usages
 
+* **Default Prefix: `x!`
+
 |  Cmd   | Usage    | Description                                                    | Catagory    |
 | ------ | -------- | -------------------------------------------------------------- | ----------- |
 |        |          |                                                                |             |
@@ -11,11 +13,27 @@
 
 ---
 
+[XoXo Invite](http://bit.ly/XoXo-Bot-Invite)
+`Join the Support Server for Any Support!`
+
+---
 
 * **Community Server // Support Server**
 </br></br>
 <a href="https://discord.gg/UnDpr2kEpB"><img src="https://invidget.switchblade.xyz/UnDpr2kEpB"/></a>
 <br><br>
+
+# Credits:
+`Anyone that Contributes to the Project will be Listed here!`
+- Nøah#9561 | Main Developer and Owner of XoXo
+
+---
+
+# Bot Features:
+![features](https://cdn.discordapp.com/attachments/832398405098668043/843566612891172864/XoXo-Promotion-PICTURE.png)
+---
+
+# Some Data:
 
 ### Coding Languages & Tools:
 
